@@ -5,6 +5,8 @@ I am currently working on a group project with some of my classmates and doing s
 Feel free to check out my profile!
 
 More uploads to come, soon! ✨
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
  
 
 <!--
