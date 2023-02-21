@@ -1,6 +1,6 @@
 ### Hi there! ☀️
 
-I'm Stina and I am currently a first-year Javascript-developer student at IT-Högskolan in Gothenburg.
+I'm Stina and I am a first-year Javascript-developer student at IT-Högskolan in Gothenburg.
 I am currently working on a group project with some of my classmates and doing some finishing touches on my old school projects. 
 Feel free to check out my profile!
 
