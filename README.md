@@ -7,7 +7,7 @@ Feel free to check out my profile!
 More uploads to come, soon! ✨
 
  <a href="https://www.linkedin.com/in/stina-norqvist/">
- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+ [LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
  </a> 
 
  
