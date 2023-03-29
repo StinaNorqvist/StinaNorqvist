@@ -1,9 +1,7 @@
 # Hi there! ☀️ 🍊
 
 I'm Stina and I am a first-year JavaScript-developer student at IT-Högskolan in Gothenburg.
-Feel free to check out my profile!
-
-More uploads to come soon! ✨
+Feel free to check out my profile! 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stina-norqvist/)
 
