@@ -1,7 +1,6 @@
 # Hi there! 
 
-I'm Stina and I am a second-year JavaScript-developer student at IT-Högskolan in Gothenburg.
-Feel free to check out my profile! 
+I'm Stina!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stina-norqvist/)
 
